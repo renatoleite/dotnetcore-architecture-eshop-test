@@ -1,0 +1,1 @@
+# dotnetcore-architecture-eshop-test
